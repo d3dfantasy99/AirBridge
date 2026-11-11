@@ -150,8 +150,6 @@ La password è protetta tramite **DPAPI** nel profilo Windows ed è oscurata nei
 - Rimozione delle precedenti funzioni di apprendimento e ricezione UDP generica.
 - Comunicazione Airlite tramite UDP, senza DLL del produttore.
 
-**Stato dei test:** sono stati eseguiti test software e la gestione dei colori LED è stata verificata sul mixer. La ricezione degli eventi **PRESS/RELEASE sull'hardware reale** richiede ancora conferma con questa versione: si consiglia di considerare il rilascio *sperimentale* finché non è completato il collaudo.
-
 ## Feedback e segnalazioni
 
 Per segnalare un problema usa la sezione [Issues](../../issues) del repository, indicando:
